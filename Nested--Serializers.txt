@@ -16,7 +16,7 @@ I have 2 model classes they are like "Author" and "Book"  ---->>> so "AuthorSeri
 For Author ---->> we have fields  like  first_name , last_name , subject 
 For Book  ---->> we have fields  like   title ,  author  , release_date  ,  rating of this book.
 
-"Book" model  contains "author" field this is a   "ForeignKey " of "Author"  model.
+"Book" model  contains "author" field this is a   "ForeignKey " of  "Author"  model.
 
 To get all authors information in a list :
 ======= = = ===== =  ======= ======
